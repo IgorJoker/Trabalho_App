@@ -52,9 +52,6 @@ class ResultadoActivity : AppCompatActivity() {
         textPãesWomen.setText((women * 1.50).toString())
         textPãesKid.setText((0).toString())
 
-
-
-
     }
 
 }

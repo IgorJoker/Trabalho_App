@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">3tambor</string>
+    <string name="title_activity_adicionar_competidor">AdicionarCompetidorActivity</string>
+    <string name="title_activity_adicionar_passada">AdicionarPassadaActivity</string>
+</resources>
